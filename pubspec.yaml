@@ -1,9 +1,9 @@
 name: device_preview_module
-description: "JuneFlow Module"
+description: "this is a module for juneflow, which provides a preview of the app on different devices using the device_preview package."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/device_preview_module
 
-version: 0.1.0
+version: 1.0.0
 
 environment:
   sdk: '>=3.3.1 <4.0.0'

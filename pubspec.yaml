@@ -3,7 +3,7 @@ description: "this is a module for juneflow, which provides a preview of the app
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/device_preview_module
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  go_router: ^13.2.0
+  go_router:
   june_flow_util:
-  device_preview: ^1.1.0 #@add
+  device_preview: #@add
 
 dev_dependencies:
   flutter_test:
